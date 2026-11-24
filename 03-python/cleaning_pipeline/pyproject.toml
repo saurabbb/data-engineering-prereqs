@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cleaner"
+version = "0.1.0"
+description = "Simple data cleaning pipeline using pandas"
+requires-python = ">=3.10"
+dependencies = ["pandas", "pyarrow", "requests"]
+
+[tool.setuptools]
+packages = ["cleaner"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

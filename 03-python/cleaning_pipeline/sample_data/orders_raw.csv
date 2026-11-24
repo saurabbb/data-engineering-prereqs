@@ -1,0 +1,8 @@
+ Order ID, Customer Name ,Customer Email,Order Date,Quantity,Unit Price,Status
+1, Ram Sharma ,ram@example.com,2026-01-05,2,1500,delivered
+2,Sita Thapa,sita@example.com,2026-01-06,1,3200,shipped
+2,Sita Thapa,sita@example.com,2026-01-06,1,3200,shipped
+3,  Gita Rai,gita@example.com,not a date,3,450,
+4,Bikash Gurung,,2026-01-08,1,2500,delivered
+5,Anjali Karki,anjali@example.com,2026-01-09,abc,1200,pending
+6,Suman Shrestha,suman@example.com,2026-01-10,2, ,cancelled
