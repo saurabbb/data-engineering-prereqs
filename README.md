@@ -49,7 +49,7 @@ Each module was built on its own feature branch (`feature/sql-...`,
 `feature/linux-...`, `feature/python-...`) and merged into `main` when finished.
 
 ## Certificates
-- HackerRank SQL(basic,intermediate): (link)
+- HackerRank SQL(basic,intermediate)
 
 
 ## Author
